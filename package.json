@@ -1,6 +1,6 @@
 {
     "name": "hexo-talk",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "description": "Creating a talk component or page in hexo post.",
     "main": "index.js",
     "license": "MIT",
