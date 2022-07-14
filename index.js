@@ -1,6 +1,6 @@
 /* global hexo */
 
-hexo.extend.generator.register("flomo-talk", function (locals) {
+hexo.extend.generator.register("talk", function (locals) {
     if (!this.config.talk.enable) {
         return;
     }
