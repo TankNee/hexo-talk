@@ -1,0 +1,25 @@
+{
+    "name": "hexo-talk",
+    "version": "1.0.0",
+    "description": "Creating a talk component or page in hexo post.",
+    "main": "index.js",
+    "license": "MIT",
+    "keywords": [
+        "hexo",
+        "flomo",
+        "talk",
+        "plugin"
+    ],
+    "author": {
+        "name": "TankNee",
+        "email": "nee@tanknee.cn",
+        "url": "https://www.tanknee.cn"
+    },
+    "engines": {
+        "hexo": ">=4.0.0"
+    },
+    "dependencies": {
+        "hexo-fs": "^3.1.0",
+        "superagent": "^8.0.0"
+    }
+}
